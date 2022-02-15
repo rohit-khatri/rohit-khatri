@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm Rohit 👋
 
 <!--
 **rohit-khatri/rohit-khatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I love math, programming and books
+- 🌱 I’m addicted to learning and growing every day
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/rohit-khatri-1bba8318/)
