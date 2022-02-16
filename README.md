@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - :zap: I love math, programming and books
 - 🌱 I’m addicted to learning and growing every day
 - Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/rohit-khatri-1bba8318/)
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohit-khatri-1bba8318/)
